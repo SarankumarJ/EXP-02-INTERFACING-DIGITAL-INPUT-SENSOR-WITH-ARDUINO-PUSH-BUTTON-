@@ -79,5 +79,6 @@ void loop()
 
 
 ## Result:
-     Thus the Simulation output on interfacing digital input sensor with arduino has been completed in Thinkercard
+     Thus the Simulation output on interfacing digital input sensor 
+	 with arduino has been completed in Thinkercard
 
